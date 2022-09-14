@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá, eu sou William M. Alves. 😊👍
 
-<!--
-**WMAlves/WMAlves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Hoje trabalho como projetista, mas estou migrando para programação.
+- Sou graduando em engenharia de software, atualmente aprendendo tecnologias para front-end.
+- Decidi migrar de area depois de começar a estudar C# para construir API's para uma ferramenta utlizada na engenharia civil.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/wmalves">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wmalves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmalves&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
