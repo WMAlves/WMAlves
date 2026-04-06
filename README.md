@@ -1,7 +1,7 @@
   ### Olá, eu sou William M. Alves. 😊👍
 
-- Hoje trabalho como Analista de dados, estou migrando para desenvolvimento.
-- Sou graduando em engenharia de software, atualmente aprendendo tecnologias para front-end.
+- Hoje atuo como PO, migrando para desenvolvimento.
+- Sou graduando em engenharia de software, focado em disciplinas Backend, utilizando java.
 - Decidi migrar de area depois de começar a estudar C# para construir API's para uma ferramenta utlizada na engenharia civil.
 
 * #### Mais informações: 
